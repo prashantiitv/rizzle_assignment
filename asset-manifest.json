@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rizzle_assignment/static/css/main.608504fc.chunk.css",
+    "main.js": "/rizzle_assignment/static/js/main.9d90b3f1.chunk.js",
+    "main.js.map": "/rizzle_assignment/static/js/main.9d90b3f1.chunk.js.map",
+    "runtime-main.js": "/rizzle_assignment/static/js/runtime-main.e3e86fb2.js",
+    "runtime-main.js.map": "/rizzle_assignment/static/js/runtime-main.e3e86fb2.js.map",
+    "static/js/2.37b14681.chunk.js": "/rizzle_assignment/static/js/2.37b14681.chunk.js",
+    "static/js/2.37b14681.chunk.js.map": "/rizzle_assignment/static/js/2.37b14681.chunk.js.map",
+    "index.html": "/rizzle_assignment/index.html",
+    "precache-manifest.af91727ebef6bd2fa66239b74b39111e.js": "/rizzle_assignment/precache-manifest.af91727ebef6bd2fa66239b74b39111e.js",
+    "service-worker.js": "/rizzle_assignment/service-worker.js",
+    "static/css/main.608504fc.chunk.css.map": "/rizzle_assignment/static/css/main.608504fc.chunk.css.map",
+    "static/js/2.37b14681.chunk.js.LICENSE.txt": "/rizzle_assignment/static/js/2.37b14681.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3e86fb2.js",
+    "static/js/2.37b14681.chunk.js",
+    "static/css/main.608504fc.chunk.css",
+    "static/js/main.9d90b3f1.chunk.js"
+  ]
+}
